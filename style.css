@@ -1,0 +1,46 @@
+ body{
+   background-color: gray;
+ }
+
+ h1{
+     color: green;
+ }
+
+ h2{
+     color: rgba(58, 214, 58, 0.747);
+ }
+ .resume_div{
+     margin-top: 8px;
+ }
+
+ #box{
+     background-color:gray;
+ }
+ img{
+     background-color: black;
+     border: 20px;
+     border-color: gray;
+     border-radius: 50%;
+     height: 260px;
+     margin-top: 4px;
+     margin-left: 80px;
+   
+
+ }
+h3{
+    color: rgba(37, 204, 22, 0.945);
+}
+
+.external_div{
+    width: 40%;
+    background-color: black;
+    
+}
+.one{
+    color: white;
+    margin-left: 100px;
+}
+.two{
+    color: white;
+    margin-left: 10px;
+}
